@@ -57,4 +57,4 @@ void display()
     {
         printf("%d ",queue[i]);
     }
-}8
+}
